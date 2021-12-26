@@ -34,7 +34,7 @@ Want the image and the metadata for ghost #0?
 
 ### MetaData
 
-`/metadata/0` contains
+`/metadata/0.json` contains
 
 ```json
 {
